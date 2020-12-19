@@ -36,9 +36,10 @@
 
 ## Overview
 
-<!-- ![screenshot](link ng screenshot)  
+  <img src="./images/dc1Desktop.png" alt="Desktop View">
+  <img src="./images/dc1Mobile.png" alt="Mobile View">
 
-  <img src="../assets/screenshots.png" alt="Desktop and Mobile view"> -->
+
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
