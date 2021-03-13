@@ -143,6 +143,8 @@ footer p {
     line-height: 20.73px;
   }
   footer {
+    position: relative;
+    bottom:0;
     padding:10px;
   }
 }
